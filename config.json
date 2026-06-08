@@ -1,6 +1,6 @@
 {
-  "discord_token": "YOUR_DISCORD_BOT_TOKEN",
+  "discord_token": "MTUxMzMzMjQzNTU1Nzk0MTI4OA.GeMW-j.vo0Vn9qwLvMU8-9kHbn82NzMPH2VLyZJ3dr1u8",
   "provider": "gemini",
-  "openai_api_key": "YOUR_OPENAI_API_KEY",
+  "openai_api_key": "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",
   "gemini_api_key": "YOUR_GEMINI_API_KEY"
 }
